@@ -1,0 +1,3 @@
+runtime:
+  sdk: streamlit
+  hardware: gpu

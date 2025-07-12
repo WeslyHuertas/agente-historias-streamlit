@@ -1,0 +1,24 @@
+# Ignorar entorno virtual
+venv/
+.env/
+
+# Archivos de configuración local
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.log
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos temporales
+*.bak
+*.swp
+.DS_Store
+
+# No subir configuraciones específicas del entorno
+setup.*
